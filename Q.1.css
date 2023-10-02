@@ -1,0 +1,8 @@
+/* It links html file to css by link tag in html */
+*{
+    margin: 0;
+    padding: 0;
+}
+.first{
+background-color: burlywood;
+}
